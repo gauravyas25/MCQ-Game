@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.question-container {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.options-container button {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.options-container button:hover {
+  background-color: #45a049;
+}
+
+.score-container {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+}
